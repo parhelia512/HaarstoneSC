@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a06c7e6dcdd724d875101921d839a2, type: 3}
+  m_Name: Such a Pride!
+  m_EditorClassIdentifier: 
+  cardName: Such a Pride!
+  cardType: 1
+  cardSprite: {fileID: 21300000, guid: cbbe17650bb2ac1489b574a9104f850b, type: 3}
+  hasDoubleClass: 0
+  cardClass: []
+  mana: 2
+  description: 
+  cardTarget: 0
+  canTarget: 0
+  tradeable: 1
+  spellEffect: SuchAPride
+  minionAbilites: []
+  attack: 0
+  hp: 0
